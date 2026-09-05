@@ -1,0 +1,12 @@
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+venv/
+.venv/
+selected_weights/
+temporary_checkpoints/
+temporary_trajectories/
+temporary_videos/
+preflight_pendulum*.mp4
